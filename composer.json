@@ -1,0 +1,10 @@
+{
+    "name": "blue32a-sandbox/guzzle-promises",
+    "type": "project",
+    "license": "proprietary",
+    "private": true,
+    "minimum-stability": "stable",
+    "require": {
+        "guzzlehttp/promises": "^2.2"
+    }
+}
